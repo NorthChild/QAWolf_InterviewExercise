@@ -77,6 +77,9 @@ async function sortHackerNewsArticles() {
   } catch (error) {
     console.error('An error occurred:', error);
   }
+
+  // Close browser when done
+  page.close();
 }
 
 (async () => {
