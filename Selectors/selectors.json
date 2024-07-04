@@ -1,0 +1,6 @@
+{
+    "newButton": ".pagetop > span > a",
+    "moreButton": ".title > .morelink",
+    "orderedPostNumber": "body .athing .rank",
+    "minutesSincePost": ".subtext .age"
+}
